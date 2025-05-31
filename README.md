@@ -1,6 +1,6 @@
 # Find Path - A* Algorithm
 
-Aplikasi visualisasi algoritma pencarian jalur menggunakan **A\*** (A-star) yang dibangun menggunakan **Python** dan **Pygame**. Pengguna dapat membuat labirin (maze) secara manual, menentukan titik awal dan tujuan, lalu melihat bagaimana algoritma A* mencari jalur tercepat.
+Aplikasi visualisasi algoritma pencarian jalur menggunakan **A\*** (A-star) yang dibangun menggunakan **Python** dan **Pygame**. Pengguna dapat membuat rintangan secara manual, menentukan titik awal dan tujuan, lalu melihat bagaimana algoritma A* mencari jalur tercepat.
 
 ## 🎯 Fitur
 
