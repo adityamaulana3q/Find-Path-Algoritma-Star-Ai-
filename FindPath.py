@@ -6,7 +6,7 @@ from queue import PriorityQueue
 WIDTH = 600
 ROWS = 30
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
-pygame.display.set_caption("Maze Solver - A* Algorithm")
+pygame.display.set_caption("FindPath - A* Algorithm")
 pygame.font.init()  # Inisialisasi font
 
 # Warna
